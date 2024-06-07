@@ -4,7 +4,7 @@
 
 I dive into languages, frameworks, and algorithms, facing challenges with persistence and creativity. With determination, I share my achievements. Ready to code along? Let's do this! 🌐🚀
 
-![Coding](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611plgfojo0gsw43x94ublzhgc154etfr10admnt1k0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Coding](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 
 ## About Me
 
