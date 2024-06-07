@@ -4,22 +4,27 @@
 
 I dive into languages, frameworks, and algorithms, facing challenges with persistence and creativity. With determination, I share my achievements. Ready to code along? Let's do this! 🌐🚀
 
-![Coding](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
+![Coding](https://media.giphy.com/media/sOzHwf1DF8h96A5tXU/giphy.gif?cid=790b76110mn13l96tngk6vv4sssnae2x78ff6fgfentmogk9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## About Me
 
 - 🔭 I’m currently working on various software projects
 - 🌱 I’m learning new technologies every day
-- 📫 How to reach me: [victor](mailto:vicguioliveira2005@gmail.com)
+- 📫 How to reach me: [here](mailto:vicguioliveira2005@gmail.com)
 - ⚡ Fun fact: When hell freezes over, I'll change careers
 
 ## Vamos Conectar!
 
 - 📷 [Instagram](https://instagram.com/victor_nasc00)
 - 💼 [LinkedIn](https://linkedin.com/in/victor-nasc00)
-- 🐦 [Discord](https://discord.com/invite/fdU3reGj)
+- 💬 [Discord](https://discord.com/invite/fdU3reGj)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ON00dev&show_icons=true&theme=radical)
 
-![Badge](https://img.shields.io/badge/Python-JavaScript-<COLOR>.svg)
+## Programming Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact)
+
+
+
