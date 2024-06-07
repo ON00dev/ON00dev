@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Victor! 👋
 
-<!--
-**ON00dev/ON00dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey, I'm Victor! A Software Engineering student on a mission to master programming. I turn coffee into code and bugs into features! 💻
 
-Here are some ideas to get you started:
+I dive into languages, frameworks, and algorithms, facing challenges with persistence and creativity. With determination, I share my achievements. Ready to code along? Let's do this! 🌐🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Coding](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611plgfojo0gsw43x94ublzhgc154etfr10admnt1k0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+## About Me
+
+- 🔭 I’m currently working on various software projects
+- 🌱 I’m learning new technologies every day
+- 📫 How to reach me: [victor](mailto:vicguioliveira2005@gmail.com)
+- ⚡ Fun fact: When hell freezes over, I'll change careers
+
+## Vamos Conectar!
+
+- 📷 [Instagram](https://instagram.com/victor_nasc00)
+- 💼 [LinkedIn](https://linkedin.com/in/victor-nasc00)
+- 🐦 [Discord](https://discord.com/invite/fdU3reGj)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ON00dev&show_icons=true&theme=radical)
+
+![Badge](https://img.shields.io/badge/Python-JavaScript-<COLOR>.svg)
