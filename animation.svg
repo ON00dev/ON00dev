@@ -3,7 +3,7 @@
     .bit {
       fill: #4CAF50;
       opacity: 0;
-      animation: fall 1s infinite;
+      animation: fall-rise 2s infinite;
     }
     .bit:nth-child(1) { animation-delay: 0s; }
     .bit:nth-child(2) { animation-delay: 0.1s; }
@@ -21,10 +21,11 @@
     .bit:nth-child(14) { animation-delay: 1.3s; }
     .bit:nth-child(15) { animation-delay: 1.4s; }
     .bit:nth-child(16) { animation-delay: 1.5s; }
-    
-    @keyframes fall {
+
+    @keyframes fall-rise {
       0% { transform: translateY(-10px); opacity: 1; }
-      100% { transform: translateY(32px); opacity: 0; }
+      50% { transform: translateY(32px); opacity: 0; }
+      100% { transform: translateY(-10px); opacity: 1; }
     }
   </style>
   <rect width="330" height="32" fill="black" />
