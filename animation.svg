@@ -21,6 +21,90 @@
     .bit:nth-child(14) { animation-delay: 1.3s; }
     .bit:nth-child(15) { animation-delay: 1.4s; }
     .bit:nth-child(16) { animation-delay: 1.5s; }
+    .bit:nth-child(17) { animation-delay: 1.6s; }
+    .bit:nth-child(18) { animation-delay: 1.7s; }
+    .bit:nth-child(19) { animation-delay: 1.8s; }
+    .bit:nth-child(20) { animation-delay: 1.9s; }
+    .bit:nth-child(21) { animation-delay: 2s; }
+    .bit:nth-child(22) { animation-delay: 2.1s; }
+    .bit:nth-child(23) { animation-delay: 2.2s; }
+    .bit:nth-child(24) { animation-delay: 2.3s; }
+    .bit:nth-child(25) { animation-delay: 2.4s; }
+    .bit:nth-child(26) { animation-delay: 2.5s; }
+    .bit:nth-child(27) { animation-delay: 2.6s; }
+    .bit:nth-child(28) { animation-delay: 2.7s; }
+    .bit:nth-child(29) { animation-delay: 2.8s; }
+    .bit:nth-child(30) { animation-delay: 2.9s; }
+    .bit:nth-child(31) { animation-delay: 3s; }
+    .bit:nth-child(32) { animation-delay: 3.1s; }
+    .bit:nth-child(33) { animation-delay: 3.2s; }
+    .bit:nth-child(34) { animation-delay: 3.3s; }
+    .bit:nth-child(35) { animation-delay: 3.4s; }
+    .bit:nth-child(36) { animation-delay: 3.5s; }
+    .bit:nth-child(37) { animation-delay: 3.6s; }
+    .bit:nth-child(38) { animation-delay: 3.7s; }
+    .bit:nth-child(39) { animation-delay: 3.8s; }
+    .bit:nth-child(40) { animation-delay: 3.9s; }
+    .bit:nth-child(41) { animation-delay: 4s; }
+    .bit:nth-child(42) { animation-delay: 4.1s; }
+    .bit:nth-child(43) { animation-delay: 4.2s; }
+    .bit:nth-child(44) { animation-delay: 4.3s; }
+    .bit:nth-child(45) { animation-delay: 4.4s; }
+    .bit:nth-child(46) { animation-delay: 4.5s; }
+    .bit:nth-child(47) { animation-delay: 4.6s; }
+    .bit:nth-child(48) { animation-delay: 4.7s; }
+    .bit:nth-child(49) { animation-delay: 4.8s; }
+    .bit:nth-child(50) { animation-delay: 4.9s; }
+    .bit:nth-child(51) { animation-delay: 5s; }
+    .bit:nth-child(52) { animation-delay: 5.1s; }
+    .bit:nth-child(53) { animation-delay: 5.2s; }
+    .bit:nth-child(54) { animation-delay: 5.3s; }
+    .bit:nth-child(55) { animation-delay: 5.4s; }
+    .bit:nth-child(56) { animation-delay: 5.5s; }
+    .bit:nth-child(57) { animation-delay: 5.6s; }
+    .bit:nth-child(58) { animation-delay: 5.7s; }
+    .bit:nth-child(59) { animation-delay: 5.8s; }
+    .bit:nth-child(60) { animation-delay: 5.9s; }
+    .bit:nth-child(61) { animation-delay: 6s; }
+    .bit:nth-child(62) { animation-delay: 6.1s; }
+    .bit:nth-child(63) { animation-delay: 6.2s; }
+    .bit:nth-child(64) { animation-delay: 6.3s; }
+    .bit:nth-child(65) { animation-delay: 6.4s; }
+    .bit:nth-child(66) { animation-delay: 6.5s; }
+    .bit:nth-child(67) { animation-delay: 6.6s; }
+    .bit:nth-child(68) { animation-delay: 6.7s; }
+    .bit:nth-child(69) { animation-delay: 6.8s; }
+    .bit:nth-child(70) { animation-delay: 6.9s; }
+    .bit:nth-child(71) { animation-delay: 7s; }
+    .bit:nth-child(72) { animation-delay: 7.1s; }
+    .bit:nth-child(73) { animation-delay: 7.2s; }
+    .bit:nth-child(74) { animation-delay: 7.3s; }
+    .bit:nth-child(75) { animation-delay: 7.4s; }
+    .bit:nth-child(76) { animation-delay: 7.5s; }
+    .bit:nth-child(77) { animation-delay: 7.6s; }
+    .bit:nth-child(78) { animation-delay: 7.7s; }
+    .bit:nth-child(79) { animation-delay: 7.8s; }
+    .bit:nth-child(80) { animation-delay: 7.9s; }
+    .bit:nth-child(81) { animation-delay: 8s; }
+    .bit:nth-child(82) { animation-delay: 8.1s; }
+    .bit:nth-child(83) { animation-delay: 8.2s; }
+    .bit:nth-child(84) { animation-delay: 8.3s; }
+    .bit:nth-child(85) { animation-delay: 8.4s; }
+    .bit:nth-child(86) { animation-delay: 8.5s; }
+    .bit:nth-child(87) { animation-delay: 8.6s; }
+    .bit:nth-child(88) { animation-delay: 8.7s; }
+    .bit:nth-child(89) { animation-delay: 8.8s; }
+    .bit:nth-child(90) { animation-delay: 8.9s; }
+    .bit:nth-child(91) { animation-delay: 9s; }
+    .bit:nth-child(92) { animation-delay: 9.1s; }
+    .bit:nth-child(93) { animation-delay: 9.2s; }
+    .bit:nth-child(94) { animation-delay: 9.3s; }
+    .bit:nth-child(95) { animation-delay: 9.4s; }
+    .bit:nth-child(96) { animation-delay: 9.5s; }
+    .bit:nth-child(97) { animation-delay: 9.6s; }
+    .bit:nth-child(98) { animation-delay: 9.7s; }
+    .bit:nth-child(99) { animation-delay: 9.8s; }
+    .bit:nth-child(100) { animation-delay: 9.9s; }
 
     @keyframes fall-rise {
       0% { transform: translateY(-10px); opacity: 1; }
@@ -29,36 +113,59 @@
     }
   </style>
   <rect width="330" height="32" fill="black" />
-  <rect class="bit" x="10" y="0" width="4" height="4" />
-  <rect class="bit" x="20" y="0" width="4" height="4" />
+  <rect class="bit" x="0" y="0" width="4" height="4" />
+  <rect class="bit" x="6" y="0" width="4" height="4" />
+  <rect class="bit" x="12" y="0" width="4" height="4" />
+  <rect class="bit" x="18" y="0" width="4" height="4" />
+  <rect class="bit" x="24" y="0" width="4" height="4" />
   <rect class="bit" x="30" y="0" width="4" height="4" />
-  <rect class="bit" x="40" y="0" width="4" height="4" />
-  <rect class="bit" x="50" y="0" width="4" height="4" />
+  <rect class="bit" x="36" y="0" width="4" height="4" />
+  <rect class="bit" x="42" y="0" width="4" height="4" />
+  <rect class="bit" x="48" y="0" width="4" height="4" />
+  <rect class="bit" x="54" y="0" width="4" height="4" />
   <rect class="bit" x="60" y="0" width="4" height="4" />
-  <rect class="bit" x="70" y="0" width="4" height="4" />
-  <rect class="bit" x="80" y="0" width="4" height="4" />
+  <rect class="bit" x="66" y="0" width="4" height="4" />
+  <rect class="bit" x="72" y="0" width="4" height="4" />
+  <rect class="bit" x="78" y="0" width="4" height="4" />
+  <rect class="bit" x="84" y="0" width="4" height="4" />
   <rect class="bit" x="90" y="0" width="4" height="4" />
-  <rect class="bit" x="100" y="0" width="4" height="4" />
-  <rect class="bit" x="110" y="0" width="4" height="4" />
+  <rect class="bit" x="96" y="0" width="4" height="4" />
+  <rect class="bit" x="102" y="0" width="4" height="4" />
+  <rect class="bit" x="108" y="0" width="4" height="4" />
+  <rect class="bit" x="114" y="0" width="4" height="4" />
   <rect class="bit" x="120" y="0" width="4" height="4" />
-  <rect class="bit" x="130" y="0" width="4" height="4" />
-  <rect class="bit" x="140" y="0" width="4" height="4" />
+  <rect class="bit" x="126" y="0" width="4" height="4" />
+  <rect class="bit" x="132" y="0" width="4" height="4" />
+  <rect class="bit" x="138" y="0" width="4" height="4" />
+  <rect class="bit" x="144" y="0" width="4" height="4" />
   <rect class="bit" x="150" y="0" width="4" height="4" />
-  <rect class="bit" x="160" y="0" width="4" height="4" />
-  <rect class="bit" x="170" y="0" width="4" height="4" />
+  <rect class="bit" x="156" y="0" width="4" height="4" />
+  <rect class="bit" x="162" y="0" width="4" height="4" />
+  <rect class="bit" x="168" y="0" width="4" height="4" />
+  <rect class="bit" x="174" y="0" width="4" height="4" />
   <rect class="bit" x="180" y="0" width="4" height="4" />
-  <rect class="bit" x="190" y="0" width="4" height="4" />
-  <rect class="bit" x="200" y="0" width="4" height="4" />
+  <rect class="bit" x="186" y="0" width="4" height="4" />
+  <rect class="bit" x="192" y="0" width="4" height="4" />
+  <rect class="bit" x="198" y="0" width="4" height="4" />
+  <rect class="bit" x="204" y="0" width="4" height="4" />
   <rect class="bit" x="210" y="0" width="4" height="4" />
-  <rect class="bit" x="220" y="0" width="4" height="4" />
-  <rect class="bit" x="230" y="0" width="4" height="4" />
+  <rect class="bit" x="216" y="0" width="4" height="4" />
+  <rect class="bit" x="222" y="0" width="4" height="4" />
+  <rect class="bit" x="228" y="0" width="4" height="4" />
+  <rect class="bit" x="234" y="0" width="4" height="4" />
   <rect class="bit" x="240" y="0" width="4" height="4" />
-  <rect class="bit" x="250" y="0" width="4" height="4" />
-  <rect class="bit" x="260" y="0" width="4" height="4" />
+  <rect class="bit" x="246" y="0" width="4" height="4" />
+  <rect class="bit" x="252" y="0" width="4" height="4" />
+  <rect class="bit" x="258" y="0" width="4" height="4" />
+  <rect class="bit" x="264" y="0" width="4" height="4" />
   <rect class="bit" x="270" y="0" width="4" height="4" />
-  <rect class="bit" x="280" y="0" width="4" height="4" />
-  <rect class="bit" x="290" y="0" width="4" height="4" />
+  <rect class="bit" x="276" y="0" width="4" height="4" />
+  <rect class="bit" x="282" y="0" width="4" height="4" />
+  <rect class="bit" x="288" y="0" width="4" height="4" />
+  <rect class="bit" x="294" y="0" width="4" height="4" />
   <rect class="bit" x="300" y="0" width="4" height="4" />
-  <rect class="bit" x="310" y="0" width="4" height="4" />
-  <rect class="bit" x="320" y="0" width="4" height="4" />
+  <rect class="bit" x="306" y="0" width="4" height="4" />
+  <rect class="bit" x="312" y="0" width="4" height="4" />
+  <rect class="bit" x="318" y="0" width="4" height="4" />
+  <rect class="bit" x="324" y="0" width="4" height="4" />
 </svg>
