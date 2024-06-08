@@ -13,7 +13,7 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 - 📫 How to reach me: [here](mailto:vicguioliveira2005@gmail.com)
 - ⚡ Fun fact: When hell freezes over, I'll change careers
 
-## Vamos Conectar!
+## Let's Connect!
 
 - 📷 [Instagram](https://instagram.com/victor_nasc00)
 - 💼 [LinkedIn](https://linkedin.com/in/victor-nasc00)
@@ -24,7 +24,10 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 
 ## Programming Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=000000,00FF00)
+
+
+
 
 
 
