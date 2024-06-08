@@ -24,10 +24,5 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 
 ## Programming Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=000000,00FF00)
-
-
-
-
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=000000,00FF00&title_color=#7CFC00&text_color=000000)
 
