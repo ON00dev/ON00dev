@@ -19,7 +19,7 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 - 💼 [LinkedIn](https://linkedin.com/in/victor-nasc00)
 - 💬 [Discord](https://discord.com/invite/fdU3reGj)
 
-# Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ON00dev&show_icons=true&theme=radical)
 
