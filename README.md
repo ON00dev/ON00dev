@@ -28,3 +28,13 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=000000&title_color=559E7F&text_color=ffffff)
 
 ![ON00dev Animation](./animation.svg)
+
+# Meu Projeto
+
+```plaintext
+           ,d8b.           888PPPP8p, 888  ,dP
+           88P' `                  `88'8o   8     d88oo8P'
+           d8     d88ooo8  d88ooo8  88 8    8    88PPPPP
+        ,d8P'   ,88' `88.,88' `88. 88 8    8   88b
+       88P'     88b  d88 88b  d88 88 8    8   `88bo.____
+                                              `--' --'
