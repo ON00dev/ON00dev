@@ -10,14 +10,27 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 
 - 🔭 I’m currently working on various software projects
 - 🌱 I’m learning new technologies every day
-- 📫 How to reach me: [here](mailto:vicguioliveira2005@gmail.com)
 - ⚡ Fun fact: When hell freezes over, I'll change careers
 
 ## Let's Connect!
 
-- 📷 [Instagram](https://instagram.com/victor_nasc00)
-- 💼 [LinkedIn](https://linkedin.com/in/victor-nasc00)
-- 💬 [Discord](https://discord.com/invite/fdU3reGj)
+<a href="https://instagram.com/victor_nasc00">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Discord" width="48">
+</a>
+
+<a href="https://linkedin.com/in/victor-nasc00">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Discord" width="48">
+</a>
+
+<a href="https://discord.com/invite/fdU3reGj">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" width="48">
+</a>
+
+<a href="mailto:vicguioliveira2005@gmail.com">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Discord" width="48">
+</a>
+
+
 
 ## Stats
 
