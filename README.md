@@ -22,7 +22,7 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Discord" width="48">
 </a>
 
-<a href="https://discord.com/invite/fdU3reGj">
+<a href="https://discord.gg/DJHwSrR4">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" width="48">
 </a>
 
