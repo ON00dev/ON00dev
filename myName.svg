@@ -1,28 +1,30 @@
-<svg width="600" height="151" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
   <style>
     .typing {
       fill: none;
       stroke: white;
       stroke-width: 4;
-      stroke-dasharray: 1000, 1000;
-      animation: typing 3s steps(15) 1s forwards, blinking 3s step-end 4s infinite;
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: typing 4s steps(15, end) 1s forwards,
+                 erasing 4s steps(15, end) 3s 1s forwards;
     }
 
     @keyframes typing {
-      0% {
-        stroke-dasharray: 0, 1000;
+      from {
+        stroke-dashoffset: 1000;
       }
-      100% {
-        stroke-dasharray: 1000, 0;
+      to {
+        stroke-dashoffset: 0;
       }
     }
 
-    @keyframes blinking {
-      0%, 100% {
-        stroke: transparent;
+    @keyframes erasing {
+      from {
+        stroke-dashoffset: 0;
       }
-      50% {
-        stroke: white;
+      to {
+        stroke-dashoffset: 1000;
       }
     }
   </style>
