@@ -1,19 +1,19 @@
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
   <style>
     .typing {
       fill: none;
-      stroke: black;
-      stroke-width: 2;
-      stroke-dasharray: 100, 100;
-      animation: typing 3s steps(10) 1s forwards, blinking 3s step-end 4s infinite;
+      stroke: white;
+      stroke-width: 4;
+      stroke-dasharray: 1000, 1000;
+      animation: typing 3s steps(15) 1s forwards, blinking 3s step-end 4s infinite;
     }
 
     @keyframes typing {
       0% {
-        stroke-dasharray: 0, 100;
+        stroke-dasharray: 0, 1000;
       }
       100% {
-        stroke-dasharray: 100, 0;
+        stroke-dasharray: 1000, 0;
       }
     }
 
@@ -22,11 +22,11 @@
         stroke: transparent;
       }
       50% {
-        stroke: black;
+        stroke: white;
       }
     }
   </style>
-  <text x="10" y="40" font-family="Arial" font-size="40" class="typing">
+  <text x="20" y="100" font-family="Arial" font-size="80" class="typing">
     VICTOR
   </text>
 </svg>
