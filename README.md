@@ -1,4 +1,4 @@
-# Hi there, I'm Victor! 👋
+![ON00dev Animation Name](./myName.svg)
 
 👋 Hey, I'm Victor! A Software Engineering student on a mission to master programming. I turn coffee into code and bugs into features! 💻
 
