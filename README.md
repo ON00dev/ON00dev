@@ -26,7 +26,7 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" width="48">
 </a>
 
-<a href="mailto:vicguioliveira2005@gmail.com">
+<a href="mailto:on00dev.dev@gmail.com">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Discord" width="48">
 </a>
 
