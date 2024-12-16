@@ -40,4 +40,4 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=00000001&title_color=60f4bf&text_color=ffffff)
 
-![ON00dev Animation](./animation.svgw)
+![ON00dev Animation](./animation.svg)
