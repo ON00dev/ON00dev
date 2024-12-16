@@ -112,7 +112,7 @@
       100% { transform: translateY(-10px); opacity: 1; }
     }
   </style>
-  <rect width="466" height="32" fill="black" />
+  <rect width="466" height="32" fill="transparent" />
   <rect class="bit" x="0" y="0" width="4" height="4" />
   <rect class="bit" x="12" y="0" width="4" height="4" />
   <rect class="bit" x="24" y="0" width="4" height="4" />
