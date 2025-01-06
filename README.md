@@ -34,10 +34,10 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ON00dev&show_icons=true&theme=radical&bg_color=00000001&title_color=60f4bf&text_color=fbfbfb)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ON00dev&show_icons=true&theme=radical&bg_color=00000001&title_color=60f4bf&text_color=b9ffac)
 
 ## Programming Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=00000001&title_color=60f4bf&text_color=fbfbfb)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=00000001&title_color=60f4bf&text_color=b9ffac)
 
 ![ON00dev Animation](./animation.svg)
