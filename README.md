@@ -41,3 +41,5 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=00000001&title_color=60f4bf&text_color=b9ffac)
 
 ![ON00dev Animation](./animation.svg)
+
+<img src="https://github.com/ON00dev/ON00dev/blob/main/faviconio-logo/logo.svg" width="64" heigh="64">
