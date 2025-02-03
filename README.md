@@ -4,7 +4,8 @@
 
 I dive into languages, frameworks, and algorithms, facing challenges with persistence and creativity. With determination, I share my achievements. Ready to code along? Let's do this! 🌐🚀
 
-![Coding](https://media.giphy.com/media/sOzHwf1DF8h96A5tXU/giphy.gif?cid=790b76110mn13l96tngk6vv4sssnae2x78ff6fgfentmogk9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://github.com/ON00dev/ON00dev/blob/main/faviconio-logo/logo.svg" width="466" heigh="64">
+
 
 ## About Me
 
@@ -42,4 +43,4 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 
 ![ON00dev Animation](./animation.svg)
 
-<img src="https://github.com/ON00dev/ON00dev/blob/main/faviconio-logo/logo.svg" width="466" heigh="64">
+
