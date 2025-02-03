@@ -42,4 +42,4 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 
 ![ON00dev Animation](./animation.svg)
 
-<img src="https://github.com/ON00dev/ON00dev/blob/main/faviconio-logo/logo.svg" width="64" heigh="64">
+<img src="https://github.com/ON00dev/ON00dev/blob/main/faviconio-logo/logo.svg" width="466" heigh="64">
