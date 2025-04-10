@@ -37,9 +37,11 @@ I dive into languages, frameworks, and algorithms, facing challenges with persis
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ON00dev&show_icons=true&theme=radical&bg_color=00000001&title_color=60f4bf&text_color=b9ffac)
 
-## Programming Languages
+## Trophies
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ON00dev&layout=compact&bg_color=00000001&title_color=60f4bf&text_color=b9ffac)
+![Profile trophies](https://github-profile-trophy.vercel.app/?username=ON00dev&theme=onedark&column=3)
+
+
 
 ![ON00dev Animation](./animation.svg)
 
