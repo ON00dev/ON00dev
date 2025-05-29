@@ -4,7 +4,7 @@
 
 I dive into languages, frameworks, and algorithms, facing challenges with persistence and creativity. With determination, I share my achievements. Ready to code along? Let's do this! 🌐🚀
 
-<img src="https://github.com/ON00dev/ON00dev/blob/main/faviconio-logo/logo.svg" width="466" heigh="64">
+<img src="https://github.com/ON00dev/ON00dev/blob/main/faviconio-logo/20250521_1513_Aranha Realista nas Letras_remix_01jvt0pvj2eqwb9yep2rgnypcv.png" width="466" heigh="64">
 
 
 ## About Me
