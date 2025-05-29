@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=VICTOR+ON_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=435&lines=VICTOR+ON_)](https://git.io/typing-svg)
 
 👋 Hey, I'm Victor! A Software Engineering student on a mission to master programming. I turn coffee into code and bugs into features! 💻
 
