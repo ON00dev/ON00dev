@@ -1,68 +1,79 @@
-<svg width="466" height="32" viewBox="0 0 466 32" xmlns="http://www.w3.org/2000/svg">
+<svg width="466" height="100" viewBox="0 0 466 100" xmlns="http://www.w3.org/2000/svg">
   <!-- Fundo transparente -->
-  <rect width="466" height="32" fill="transparent"/>
+  <rect width="466" height="100" fill="transparent"/>
 
-  <!-- Teia horizontal -->
+  <!-- Teia -->
   <g stroke="white" stroke-width="0.5">
-    <!-- Linhas horizontais e verticais -->
-    <line x1="0" y1="16" x2="466" y2="16"/>
-    <line x1="233" y1="0" x2="233" y2="32"/>
+    <!-- Linhas principais -->
+    <line x1="0" y1="50" x2="466" y2="50"/>
+    <line x1="233" y1="0" x2="233" y2="100"/>
+    <line x1="0" y1="0" x2="466" y2="100"/>
+    <line x1="0" y1="100" x2="466" y2="0"/>
 
-    <!-- Linhas diagonais -->
-    <line x1="0" y1="0" x2="466" y2="32"/>
-    <line x1="0" y1="32" x2="466" y2="0"/>
-
-    <!-- Anéis -->
-    <rect x="0" y="0" width="466" height="32" fill="none"/>
-    <rect x="50" y="4" width="366" height="24" fill="none"/>
-    <rect x="100" y="8" width="266" height="16" fill="none"/>
-    <rect x="150" y="12" width="166" height="8" fill="none"/>
-    <rect x="200" y="14" width="66" height="4" fill="none"/>
+    <!-- Anéis simulados como retângulos -->
+    <rect x="0" y="0" width="466" height="100" fill="none"/>
+    <rect x="30" y="10" width="406" height="80" fill="none"/>
+    <rect x="60" y="20" width="346" height="60" fill="none"/>
+    <rect x="90" y="30" width="286" height="40" fill="none"/>
+    <rect x="120" y="40" width="226" height="20" fill="none"/>
   </g>
 
   <!-- Aranha -->
-  <g id="spider" transform="translate(233, 16)">
-    <!-- Corpo -->
-    <circle cx="0" cy="0" r="2" fill="black"/>
-    <!-- Cabeça -->
-    <circle cx="0" cy="-2.5" r="1.2" fill="black"/>
+  <g id="spider" transform="translate(233, 50)">
+    <circle cx="0" cy="0" r="3" fill="black"/>
+    <circle cx="0" cy="-4" r="1.8" fill="black"/>
 
-    <!-- Pernas -->
-    <g stroke="black" stroke-width="0.5">
-      <line x1="-2" y1="0" x2="-4" y2="-2"/>
-      <line x1="-2" y1="0" x2="-4" y2="2"/>
-      <line x1="2" y1="0" x2="4" y2="-2"/>
-      <line x1="2" y1="0" x2="4" y2="2"/>
-      <line x1="-1" y1="-2.5" x2="-2" y2="-4"/>
-      <line x1="1" y1="-2.5" x2="2" y2="-4"/>
+    <g stroke="black" stroke-width="0.6">
+      <line x1="-3" y1="0" x2="-6" y2="-4"/>
+      <line x1="-3" y1="0" x2="-6" y2="4"/>
+      <line x1="3" y1="0" x2="6" y2="-4"/>
+      <line x1="3" y1="0" x2="6" y2="4"/>
+      <line x1="-1.5" y1="-4" x2="-3" y2="-7"/>
+      <line x1="1.5" y1="-4" x2="3" y2="-7"/>
     </g>
   </g>
 
-  <!-- Script de movimento -->
+  <!-- Script de movimento suave -->
   <script><![CDATA[
     const spider = document.getElementById('spider');
 
-    // Pontos na teia (x, y)
+    // Definir pontos da teia (x, y)
     const points = [
-      [0, 16],    [466, 16],   [233, 0],   [233, 32],
-      [0, 0],     [466, 32],   [0, 32],    [466, 0],
-      [50, 16],   [416, 16],   [233, 16],  [116, 8],
-      [350, 24],  [150, 24],   [316, 8],   [200, 16]
+      [0, 50], [466, 50], [233, 0], [233, 100],
+      [0, 0], [466, 100], [0, 100], [466, 0],
+      [60, 50], [406, 50], [233, 50], [150, 25],
+      [316, 75], [120, 75], [346, 25], [200, 50]
     ];
 
     let current = 10; // Começa no centro
+    let [cx, cy] = points[current];
+    let [tx, ty] = [cx, cy];
 
-    function moveSpider() {
+    function chooseNextPoint() {
       let next;
       do {
         next = Math.floor(Math.random() * points.length);
       } while (next === current);
 
-      const [x, y] = points[next];
-      spider.setAttribute('transform', 'translate(' + x + ',' + y + ')');
+      [tx, ty] = points[next];
       current = next;
     }
 
-    setInterval(moveSpider, 2000);
+    function animate() {
+      cx += (tx - cx) * 0.05;
+      cy += (ty - cy) * 0.05;
+
+      spider.setAttribute('transform', 'translate(' + cx + ',' + cy + ')');
+
+      // Se estiver suficientemente perto do destino, escolher outro
+      if (Math.abs(tx - cx) < 1 && Math.abs(ty - cy) < 1) {
+        chooseNextPoint();
+      }
+
+      requestAnimationFrame(animate);
+    }
+
+    chooseNextPoint();
+    animate();
   ]]></script>
 </svg>
