@@ -173,9 +173,9 @@
   <!-- Aranha 2 -->
   <g class="spider2">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
-    <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3a2a1a"/>
-    <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
+    <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#5f5050" stroke="#000" stroke-width="0.5"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#661818"/>
+    <circle cx="0" cy="-3" r="2" fill="#5f5050" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="-0.8" cy="-3.5" r="0.2" fill="#fff"/>
@@ -190,7 +190,7 @@
       <path d="M-2,1 L-4,3 L-5,4"/>
       <path d="M2,1 L4,3 L5,4"/>
     </g>
-    <circle cx="0" cy="2.5" r="0.8" fill="#1a1a1a"/>
+    <circle cx="0" cy="2.5" r="0.8" fill="#2a1e12"/>
   </g>
 
   <!-- Aranha 3 -->
@@ -266,8 +266,8 @@
   <g class="spider6">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
     <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3a2a1a"/>
-    <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#5f5050"/>
+    <circle cx="0" cy="-3" r="2" fill="#5f5050" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="-0.8" cy="-3.5" r="0.2" fill="#fff"/>
@@ -289,8 +289,8 @@
   <g class="spider7">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
     <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3a2a1a"/>
-    <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#e62323"/>
+    <circle cx="0" cy="-3" r="2" fill="#e62323" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="-0.8" cy="-3.5" r="0.2" fill="#fff"/>
@@ -311,8 +311,8 @@
   <!-- Aranha 8 -->
   <g class="spider8">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
-    <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3a2a1a"/>
+    <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#e62323" stroke="#000" stroke-width="0.5"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#720e0e"/>
     <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
@@ -358,7 +358,7 @@
   <g class="spider10">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
     <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3a2a1a"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#924a20"/>
     <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
@@ -381,7 +381,7 @@
   <g class="spider11">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
     <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3a2a1a"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#ff9900"/>
     <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
@@ -427,7 +427,7 @@
   <g class="spider13">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
     <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3a2a1a"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#ff9900"/>
     <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
