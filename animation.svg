@@ -157,7 +157,7 @@
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="-0.8" cy="-3.5" r="0.2" fill="#fff"/>
     <circle cx="0.8" cy="-3.5" r="0.2" fill="#fff"/>
-    <g stroke="#2a1e12" stroke-width="1.2" stroke-linecap="round" fill="none">
+    <g stroke="#000000" stroke-width="1.2" stroke-linecap="round" fill="none">
       <path d="M-2,-2.5 L-4,-4 L-6,-5"/>
       <path d="M2,-2.5 L4,-4 L6,-5"/>
       <path d="M-2,-1.5 L-4,0 L-6,1"/>
@@ -196,14 +196,14 @@
   <!-- Aranha 3 -->
   <g class="spider3">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
-    <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3a2a1a"/>
-    <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
+    <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#000000" stroke="#000" stroke-width="0.5"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#3f0404"/>
+    <circle cx="0" cy="-3" r="2" fill="#000000" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="-0.8" cy="-3.5" r="0.2" fill="#fff"/>
     <circle cx="0.8" cy="-3.5" r="0.2" fill="#fff"/>
-    <g stroke="#2a1e12" stroke-width="1.2" stroke-linecap="round" fill="none">
+    <g stroke="#000000" stroke-width="1.2" stroke-linecap="round" fill="none">
       <path d="M-2,-2.5 L-4,-4 L-6,-5"/>
       <path d="M2,-2.5 L4,-4 L6,-5"/>
       <path d="M-2,-1.5 L-4,0 L-6,1"/>
@@ -288,14 +288,14 @@
   <!-- Aranha 7 -->
   <g class="spider7">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
-    <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#e62323"/>
-    <circle cx="0" cy="-3" r="2" fill="#e62323" stroke="#000" stroke-width="0.4"/>
+    <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#000000" stroke="#000" stroke-width="0.5"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#000000"/>
+    <circle cx="0" cy="-3" r="2" fill="#000000" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="-0.8" cy="-3.5" r="0.2" fill="#fff"/>
     <circle cx="0.8" cy="-3.5" r="0.2" fill="#fff"/>
-    <g stroke="#2a1e12" stroke-width="1.2" stroke-linecap="round" fill="none">
+    <g stroke="#000000" stroke-width="1.2" stroke-linecap="round" fill="none">
       <path d="M-2,-2.5 L-4,-4 L-6,-5"/>
       <path d="M2,-2.5 L4,-4 L6,-5"/>
       <path d="M-2,-1.5 L-4,0 L-6,1"/>
@@ -381,7 +381,7 @@
   <g class="spider11">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
     <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#ff9900"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#6e2a02"/>
     <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
@@ -427,8 +427,8 @@
   <g class="spider13">
     <ellipse cx="1" cy="1" rx="4" ry="3" fill="#000" opacity="0.3"/>
     <ellipse cx="0" cy="0" rx="3.5" ry="2.5" fill="#2a1a0f" stroke="#000" stroke-width="0.5"/>
-    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#ff9900"/>
-    <circle cx="0" cy="-3" r="2" fill="#4a3520" stroke="#000" stroke-width="0.4"/>
+    <ellipse cx="0" cy="0" rx="2.5" ry="1.8" fill="#000000"/>
+    <circle cx="0" cy="-3" r="2" fill="#2a1e12" stroke="#000" stroke-width="0.4"/>
     <circle cx="-0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="0.8" cy="-3.5" r="0.6" fill="#000"/>
     <circle cx="-0.8" cy="-3.5" r="0.2" fill="#fff"/>
