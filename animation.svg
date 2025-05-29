@@ -1,49 +1,56 @@
-<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="black"/>
+<svg width="466" height="32" viewBox="0 0 466 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo transparente -->
+  <rect width="466" height="32" fill="transparent"/>
 
-  <!-- Teia -->
-  <g stroke="white" stroke-width="1">
-    <line x1="250" y1="250" x2="250" y2="50"/>
-    <line x1="250" y1="250" x2="450" y2="250"/>
-    <line x1="250" y1="250" x2="250" y2="450"/>
-    <line x1="250" y1="250" x2="50" y2="250"/>
-    <line x1="250" y1="250" x2="400" y2="100"/>
-    <line x1="250" y1="250" x2="100" y2="400"/>
-    <line x1="250" y1="250" x2="400" y2="400"/>
-    <line x1="250" y1="250" x2="100" y2="100"/>
+  <!-- Teia horizontal -->
+  <g stroke="white" stroke-width="0.5">
+    <!-- Linhas horizontais e verticais -->
+    <line x1="0" y1="16" x2="466" y2="16"/>
+    <line x1="233" y1="0" x2="233" y2="32"/>
 
-    <circle cx="250" cy="250" r="50" fill="none"/>
-    <circle cx="250" cy="250" r="100" fill="none"/>
-    <circle cx="250" cy="250" r="150" fill="none"/>
-    <circle cx="250" cy="250" r="200" fill="none"/>
+    <!-- Linhas diagonais -->
+    <line x1="0" y1="0" x2="466" y2="32"/>
+    <line x1="0" y1="32" x2="466" y2="0"/>
+
+    <!-- Anéis -->
+    <rect x="0" y="0" width="466" height="32" fill="none"/>
+    <rect x="50" y="4" width="366" height="24" fill="none"/>
+    <rect x="100" y="8" width="266" height="16" fill="none"/>
+    <rect x="150" y="12" width="166" height="8" fill="none"/>
+    <rect x="200" y="14" width="66" height="4" fill="none"/>
   </g>
 
   <!-- Aranha -->
-  <g id="spider" transform="translate(250, 250)">
-    <circle cx="0" cy="0" r="8" fill="black"/>
-    <circle cx="0" cy="-10" r="5" fill="black"/>
+  <g id="spider" transform="translate(233, 16)">
+    <!-- Corpo -->
+    <circle cx="0" cy="0" r="2" fill="black"/>
+    <!-- Cabeça -->
+    <circle cx="0" cy="-2.5" r="1.2" fill="black"/>
 
-    <g stroke="black" stroke-width="2">
-      <line x1="-8" y1="0" x2="-15" y2="-10"/>
-      <line x1="-8" y1="0" x2="-15" y2="10"/>
-      <line x1="8" y1="0" x2="15" y2="-10"/>
-      <line x1="8" y1="0" x2="15" y2="10"/>
-      <line x1="-5" y1="-10" x2="-10" y2="-20"/>
-      <line x1="5" y1="-10" x2="10" y2="-20"/>
+    <!-- Pernas -->
+    <g stroke="black" stroke-width="0.5">
+      <line x1="-2" y1="0" x2="-4" y2="-2"/>
+      <line x1="-2" y1="0" x2="-4" y2="2"/>
+      <line x1="2" y1="0" x2="4" y2="-2"/>
+      <line x1="2" y1="0" x2="4" y2="2"/>
+      <line x1="-1" y1="-2.5" x2="-2" y2="-4"/>
+      <line x1="1" y1="-2.5" x2="2" y2="-4"/>
     </g>
   </g>
 
+  <!-- Script de movimento -->
   <script><![CDATA[
     const spider = document.getElementById('spider');
 
-    // Definir pontos da teia (pontos de interseção das linhas)
+    // Pontos na teia (x, y)
     const points = [
-      [250, 50], [400, 100], [450, 250], [400, 400],
-      [250, 450], [100, 400], [50, 250], [100, 100],
-      [250, 250]
+      [0, 16],    [466, 16],   [233, 0],   [233, 32],
+      [0, 0],     [466, 32],   [0, 32],    [466, 0],
+      [50, 16],   [416, 16],   [233, 16],  [116, 8],
+      [350, 24],  [150, 24],   [316, 8],   [200, 16]
     ];
 
-    let current = 8; // Começa no centro
+    let current = 10; // Começa no centro
 
     function moveSpider() {
       let next;
@@ -56,6 +63,6 @@
       current = next;
     }
 
-    setInterval(moveSpider, 2000); // Move a cada 2 segundos
+    setInterval(moveSpider, 2000);
   ]]></script>
 </svg>
