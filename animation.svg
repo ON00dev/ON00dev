@@ -2,7 +2,7 @@
   <style>
     /* Teias estáticas */
     .web-thread {
-      stroke: #e8e8e8;
+      stroke:rgba(202, 198, 198, 0.4);
       stroke-width: 1.5;
       fill: none;
       stroke-linecap: round;
