@@ -18,7 +18,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=ON00dev&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight">
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ON00dev&limit=5&theme=transparent&combine_all_yearly_contributions=true)
