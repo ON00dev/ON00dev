@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=VICTOR+ON_)](https://git.io/typing-svg)
 
-# 💫 About Me:
-👋 Hey, I'm Victor! A Software Engineering student on a mission to master programming. I turn coffee into code and bugs into features! 💻<br><br>I dive into languages, frameworks, and algorithms, facing challenges with persistence and creativity. With determination, I share my achievements. Ready to code along? Let's do this! 🌐🚀<br>🔭 I’m currently working on various software projects<br>🌱 I’m learning technologies every day<br>⚡ Fun fact: When hell freezes over, I'll change careers
+I am a software engineering student who seeks knowledge every day to become someone in life.
 
 
 ## 🌐 Socials:
