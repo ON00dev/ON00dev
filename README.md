@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=VICTOR+ON_)](https://git.io/typing-svg)
 
-I am a software engineering student who seeks knowledge every day to become someone in life.
+<center>I am a software engineering student who seeks knowledge every day to become someone in life.</center>
 
 
 ## 🌐 Socials:
